@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hackl"
+  given-names: "Markus"
+  orcid: "https://orcid.org/0000-0003-2004-7351"
+- family-names: "Ramdin"
+  given-names: "Khovesh A."
+  orcid: "https://orcid.org/0000-0002-4484-7786"
+- family-names: "Chundawat"
+  given-names: "Shishir"
+  orcid: "https://orcid.org/0000-0003-3677-6735"
+title: "AFS-GUI"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-01-01
+url: "https://github.com/ChundawatLab/AFS-GUI"
